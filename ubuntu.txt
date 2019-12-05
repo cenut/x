@@ -1,0 +1,13 @@
+http://mirror.deace.id/ubuntu/
+http://mirror.labkom.id/ubuntu/
+http://kebo.vlsm.org/ubuntu/
+http://kartolo.sby.datautama.net.id/ubuntu/
+http://kambing.ui.ac.id/ubuntu/
+http://mirror.unej.ac.id/ubuntu/
+http://mirror.poliwangi.ac.id/ubuntu/
+http://suro.ubaya.ac.id/ubuntu/
+http://kebo.pens.ac.id/ubuntu/
+http://repo.unpatti.ac.id/ubuntu/
+http://mirror.biznetgio.com/ubuntu/
+http://ubuntu.acehprov.go.id/ubuntu/
+http://archive.ubuntu.com/ubuntu/
